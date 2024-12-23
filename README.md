@@ -1,4 +1,4 @@
-# Grobbel Engine (A fork of the Godot Engine)
+# Grobbel Engine (Core Engine for Bob Simulator)
 
 <p align="center">
   <a href="https://godotengine.org">
@@ -6,9 +6,9 @@
   </a>
 </p>
 
-## Fork of the open-source Godot Engine, a 2D and 3D cross-platform game engine
-This is a fork of the open-source Godot Engine, an engine maintained by the Godot Foundation.
-I am jimmybob / TonyTCB, the Grobbel Engine is a fork I designed for my game Bob Simulator, among other things.
+## Core Engine for Bob Simulator
+The Grobbel Engine is the core game engine for the game Bob Simulator.
+It is a fork of the popular open-source multi-platform Godot Engine.
 
 My Website: https://www.tc-blox.net
 
@@ -16,7 +16,10 @@ YouTube: https://www.youtube.com/@tcbloxstudios
 
 Alternate YouTube URL: https://www.youtube.com/channel/UCK8NM7UyoUPQBGnqf7Ndsmg
 
+## What is This?
 
+Grobbel Engine is a fork of the open-source and multi-platform Godot Engine.
+The Godot Engine is maintained by the Godot Foundation and under the copyright of the Godot contributors.
 
 -
 -
