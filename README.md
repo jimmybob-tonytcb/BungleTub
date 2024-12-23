@@ -21,7 +21,7 @@ Alternate YouTube URL: https://www.youtube.com/channel/UCK8NM7UyoUPQBGnqf7Ndsmg
 -
 -
 -
-## Original READ-ME Below
+## Original READ-ME Below with Rebranded Name
 
 **[Grobel-Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
@@ -37,7 +37,7 @@ Grobel-Godot is completely free and open source under the very permissive [MIT l
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code. Grobel-Godot's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
-expectations. It is supported by the [Grobel-Godot Foundation](https://godot.foundation/)
+expectations. It is supported by the [Godot Foundation](https://godot.foundation/)
 not-for-profit.
 
 Before being open sourced in [February 2014](https://github.com/godotengine/godot/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac),
