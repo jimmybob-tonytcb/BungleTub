@@ -1,8 +1,8 @@
--- License for the Grobbel Engine: Official Bob Simulator License, last updated on 2024/12/23
+-- License for the BungleTub Engine: Official Bob Simulator License, last updated on 2024/12/23
 Copyright (c) 2024-present TC Blox Studios, https://www.tc-blox.net.
 Copyright (c) 2024-present jimmybob / TonyTCB, https://www.tc-blox.net/jimmybob.
 
-By decompiling, modifying, building from, or otherwise using the Grobbel Engine, you hereby agree to the Bob Simulator License.
+By decompiling, modifying, building from, or otherwise using the BungleTub Engine, you hereby agree to the Bob Simulator License.
 By playing or downloading Bob Simulator, you hereby agree to the Bob Simulator License.
 
 https://www.tc-blox.net/legal/bobsimulator-license
