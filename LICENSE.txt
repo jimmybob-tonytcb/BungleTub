@@ -4,6 +4,7 @@ Copyright (c) 2024-present jimmybob / TonyTCB, https://www.tc-blox.net/jimmybob.
 
 By decompiling, modifying, building from, or otherwise using the BungleTub Engine, you hereby agree to the Bob Simulator License.
 By playing or downloading Bob Simulator, you hereby agree to the Bob Simulator License.
+The Bob Simulator Licenseis the license for Bob Simulator and the BungleTub Engine.
 
 https://www.tc-blox.net/legal/bobsimulator-license
 
