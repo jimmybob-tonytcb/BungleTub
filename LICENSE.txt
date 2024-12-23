@@ -1,4 +1,4 @@
--- License for the Grobel-Godot Engine
+-- License for the Grobbel Engine
 Copyright (c) 2024-present TC Blox Studios, https://www.tc-blox.net.
 Copyright (c) 2024-present jimmybob / TonyTCB, https://www.tc-blox.net/jimmybob.
 
