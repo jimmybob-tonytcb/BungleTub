@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.tc-blox.net">
-    <img src="" width="400" alt="BungleTub Logo">
+    <img src="https://static.wixstatic.com/media/95bae7_d154982a57644753bfb102bda363c433~mv2.png/v1/fill/w_1190,h_513,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/BungleTub_Logo_LowRes.png" width="400" alt="BungleTub Logo">
   </a>
 </p>
 
