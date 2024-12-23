@@ -1,4 +1,4 @@
-# Grobbel Engine
+# Tubbungle (Game Engine)
 
 <p align="center">
   <a href="https://godotengine.org">
@@ -7,7 +7,7 @@
 </p>
 
 ## Core Engine for Bob Simulator
-The Grobbel Engine is the core game engine for the game Bob Simulator.
+Tubbungle is the core game engine for the game Bob Simulator.
 It is a fork of the popular open-source multi-platform Godot Engine.
 
 My Website: https://www.tc-blox.net
@@ -18,7 +18,7 @@ Alternate YouTube URL: https://www.youtube.com/channel/UCK8NM7UyoUPQBGnqf7Ndsmg
 
 ## Details
 
-The Grobbel Engine is licensed under the Bob Simulator License, readable from the link below:
+Tubbungle is licensed under the Bob Simulator License, readable from the link below:
 
 https://www.tc-blox.net/legal/bobsimulator-license
 
@@ -40,7 +40,7 @@ Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 
 ## Fork Information
 
-Grobbel Engine is a fork of the open-source and multi-platform Godot Engine.
+Tubbungle Engine is a fork of the open-source and multi-platform Godot Engine.
 The Godot Engine is maintained by the Godot Foundation and under the copyright of the Godot Engine contributors.
 
 -
