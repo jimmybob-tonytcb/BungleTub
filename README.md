@@ -18,9 +18,11 @@ Alternate YouTube URL: https://www.youtube.com/channel/UCK8NM7UyoUPQBGnqf7Ndsmg
 
 ## Details
 
-The Grobbel Engine is licensed under the MIT-License.
+The Grobbel Engine is licensed under the Bob Simulator License, readable from the link below:
 
-Contents created by jimmybob / TonyTCB is licensed under the MIT-License, with credit to jimmybob/TonyTCB.
+https://www.tc-blox.net/legal/bobsimulator-license
+
+Contents created by jimmybob / TonyTCB is licensed under the Bob Simulator License, with credit to jimmybob/TonyTCB.
 
 Contents created by Juan Linietsky, and Ariel Manzur, are licensed under the MIT-License with appropriate credit.
 
