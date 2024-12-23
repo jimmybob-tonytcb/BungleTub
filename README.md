@@ -1,7 +1,7 @@
 # Grobel-Godot Engine
 
 <p align="center">
-  <a href="[https://godotengine.org](https://static.wixstatic.com/media/95bae7_aab7a76b7b0d4877a56b0712a13b24ec~mv2.png/v1/fill/w_808,h_714,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Forward_Square.png)">
+  <a href="https://godotengine.org">
     <img src="logo_outlined.svg" width="400" alt="Grobel-Godot Engine logo">
   </a>
 </p>
