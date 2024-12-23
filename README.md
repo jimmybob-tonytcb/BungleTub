@@ -6,8 +6,8 @@
   </a>
 </p>
 
-## BungleTub: Core Engine for Bob Simulator
-BungleTub is the core engine for the game Bob Simulator.
+## BungleTub: Bob Simulator's Core Engine
+BungleTub is the core engine of the game Bob Simulator.
 It is a fork of the popular open-source multi-platform Godot Engine.
 
 Website: https://www.tc-blox.net
