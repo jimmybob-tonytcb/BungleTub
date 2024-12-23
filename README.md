@@ -19,15 +19,21 @@ Alternate YouTube URL: https://www.youtube.com/channel/UCK8NM7UyoUPQBGnqf7Ndsmg
 ## Details
 
 The Grobbel Engine is licensed under the MIT-License.
+
 Contents created by jimmybob / TonyTCB is licensed under the MIT-License, with credit to jimmybob/TonyTCB.
+
 Contents created by Juan Linietsky, and Ariel Manzur, are licensed under the MIT-License with appropriate credit.
+
 Contents created by the Godot Engine contributors are licensed under the MIT-License with appropriate credit.
 
 ## Copyright Attributions
 
 Copyright (c) 2024-present TC Blox Studios, https://www.tc-blox.net.
+
 Copyright (c) 2024-present jimmybob / TonyTCB, https://www.tc-blox.net/jimmybob.
+
 Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md).
+
 Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 
 ## Fork Information
