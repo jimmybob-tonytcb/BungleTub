@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.tc-blox.net">
-    <img src="BungleTub_Logo_LowRes.png" width="400" alt="Godot Engine logo">
+    <img src="BungleTub_Logo_LowRes.png" width="400" alt="BungleTub Logo">
   </a>
 </p>
 
