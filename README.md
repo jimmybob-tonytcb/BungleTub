@@ -1,4 +1,4 @@
-# Bungletub (Game Engine)
+# BungleTub Engine
 
 <p align="center">
   <a href="https://godotengine.org">
@@ -6,11 +6,11 @@
   </a>
 </p>
 
-## Core Engine for Bob Simulator
-Bungletub is the core game engine for the game Bob Simulator.
+## BungleTub: Core Engine for Bob Simulator
+BungleTub is the core engine for the game Bob Simulator.
 It is a fork of the popular open-source multi-platform Godot Engine.
 
-My Website: https://www.tc-blox.net
+Website: https://www.tc-blox.net
 
 YouTube: https://www.youtube.com/@tcbloxstudios
 
@@ -18,7 +18,7 @@ Alternate YouTube URL: https://www.youtube.com/channel/UCK8NM7UyoUPQBGnqf7Ndsmg
 
 ## Details
 
-Bungletub is licensed under the Bob Simulator License, readable from the link below:
+BungleTub is licensed under the Bob Simulator License, readable from the link below:
 
 https://www.tc-blox.net/legal/bobsimulator-license
 
