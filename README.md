@@ -1,4 +1,4 @@
-# Grobbel Engine (Core Engine for Bob Simulator)
+# Grobbel Engine
 
 <p align="center">
   <a href="https://godotengine.org">
