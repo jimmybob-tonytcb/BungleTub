@@ -16,6 +16,9 @@ YouTube: https://www.youtube.com/@tcbloxstudios
 
 Alternate YouTube URL: https://www.youtube.com/channel/UCK8NM7UyoUPQBGnqf7Ndsmg
 
+## Latest Changes
+BungleTub Version: v1.0.1_b1
+
 ## Details
 
 BungleTub is licensed under the Bob Simulator License, readable from the link below:
