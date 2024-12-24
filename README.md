@@ -45,6 +45,7 @@ Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 
 BungleTub Engine is a fork of the open-source and multi-platform Godot Engine.
 The Godot Engine is maintained by the Godot Foundation and under the copyright of the Godot Engine contributors.
+This project is not affiliated with, nor endorsed by, the Godot Foundation or the Godot Engine contributors.
 
 -
 -
