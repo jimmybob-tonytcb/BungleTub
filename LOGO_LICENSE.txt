@@ -1,5 +1,5 @@
-Godot Engine Logo
-Copyright (c) 2017 Andrea Calabró
+BungleTub Logo
+Copyright (c) 2024 Anthony Piston
 
-This work is licensed under the Creative Commons Attribution 4.0 International
-license (CC BY 4.0 International): https://creativecommons.org/licenses/by/4.0/
+This work is licensed under the Fair-Use 2024 License by TC Blox Studios:
+https://www.tc-blox.net/legal/fairuse-2024-license
